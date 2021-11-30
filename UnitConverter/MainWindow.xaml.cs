@@ -35,6 +35,7 @@ namespace UnitConverter
             InitializeComponent();
             ViewModel = new MainViewModel();
             DataContext = ViewModel;
+            ResizeMode = ResizeMode.NoResize;
         }
 
         private void Unit1_SelectionChanged(object sender, SelectionChangedEventArgs e)
