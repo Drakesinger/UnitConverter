@@ -2,7 +2,7 @@
 --------------------------------
 
 Decisions :
-- Use a known library for Units of Measure : (CK-UnitsOfMeasure)[https://github.com/Invenietis/CK-UnitsOfMeasure]
+- Use a known library for Units of Measure : [CK-UnitsOfMeasure](https://github.com/Invenietis/CK-UnitsOfMeasure)
 - Mimic the behaviour of the Unit converter of the Microsoft Calculator, but without the virtual keyboard.
 - Minimal design, don't tell the user anything except to enter a number. It is assumed the user will press the enter key at one point.
 
